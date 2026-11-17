@@ -3,7 +3,7 @@ name = "SigmaOS-fleet-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fleet-management component"
+description = "Fleet Management"
 upstream = []
 
 [contract]
